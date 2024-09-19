@@ -2,7 +2,7 @@
   - C#
 2. When/where was it created, and by whom? Was it written to address a particular problem or
 need?
-  - 
+  - The C# language was developed within Microsoft primarily by Anders Hejlsberg, Scott Wiltamuth and Peter Golde. Microsoft released the first widely distributed     implementation of C# in July 2000 as part of its . NET framework initiative.
 3. What types of programming is your language primarily used for (ex: web sites, video games,
 mobile devices, parsing, etc.)? If your language is multi-purpose, provide some examples of
 different projects it's been used for.
