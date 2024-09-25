@@ -34,9 +34,10 @@ standards in the community?
   - Conditional
 
 8. Are mixed type operations allowed? If so, how are they accommodated? 
-  -
+  - Yes mixed type operations are allowed, you can multiply and add floats and integers, and the integer will be converted to a float for the operation, and the answer will result in a float. However mixed operations between strings and ints are not allowed, strings and arrays can only hold one value type.
 
 9. At what point are identifier names and operator symbols bound in your language? For example 
 if you declare a (variable, class name, function name), when is it bound to the type, address? 
 When are operators (+,*, etc.) bound to their operations?
-  - 
+  - Variables, class names and functions are bound at compile time.
+  - Operators are bound to their operations from creation, as it is a generally permanent part of the language, however C# does allow users to overload an operator for a user defined type.
