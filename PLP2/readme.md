@@ -44,7 +44,7 @@ When are operators (+,*, etc.) bound to their operations?
 
 10. Describe the limitations (or lack thereof) of your programming language as they relate to the coding example portion of the assignment (adding ints and floats, storing different types in lists, converting between data types). Are there other restrictions or pitfalls that the documentation 
 mentions that you need to be aware of?
-  - 
+  - C# does allow division between floats and ints, without errors, and does allow you to create variables without defining values. It however doesn't have a simple print function for lists, you have to run through all the elements and print each one individually.
 
 11. Are there built-in complex data types that are commonly used in your language? (hint: they’d probably appear fairly early in the documentation if so)
-  - 
+  - There are no complex data types that I am aware of that are commonly used.
