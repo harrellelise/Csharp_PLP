@@ -1,5 +1,5 @@
 1. What is the syntax for declaring a function in your language?
-  -
+  - static void FunctionName(parameters)
 2. Are there any rules about where the function has to be placed in your code file so that it can run?
   -
 3. Does your language support recursive functions?
