@@ -18,6 +18,7 @@ https://www.geeksforgeeks.org/c-sharp-methods/?ref=shm
 https://www.w3schools.com/cs/cs_conditions.php
 
 Data Types and Naming Conventions
+(referencing DataTypes.cs)
 
 C# has lots of keywords, 77 in total.
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ 
@@ -65,6 +66,7 @@ C# does allow division between floats and ints, without errors, and does allow y
 
 
 Functions
+(referencing Functions.cs)
 
 How do you declare a function in C#?
 
@@ -94,6 +96,7 @@ Scoping Rules of C#
 
 
 Selection, Loops and Conditionals
+(referencing Loops.cs)
 
  𝅘𝅥𝅮♫♪ Lets take about selects baby, let's talk about loops and C(onditionals)  -Salt-N-Pepa
 
@@ -134,6 +137,7 @@ Types of Loops
 Reminder (variables)! - Loop code block variables are the same as code-blocks, both have the same scope. Those variables declared inside the loop or code block can't be accessed outside of it.
 
 Classes and Inheritance
+(referencing ObjectsCode/PerChiProgram.cs, Person.cs, Student.cs)
 
 C# is an object oriented language! So it supports objects and classes.
 
